@@ -1,4 +1,4 @@
-### Docker & Java
+### Docker & 
 
 This repo contains demo materials for:
 
